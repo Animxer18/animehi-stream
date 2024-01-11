@@ -1,6 +1,6 @@
 export const BASE_URL = 'https://animxer-api-cvxg.vercel.app/';
 export const PAGE = 1;
-export const CORS_PROXY = 'https://cors.proxy.consumet.org/';
+export const CORS_PROXY = 'https://animxer-api-cvxg.vercel.app/';
 export const GOGO_PROVIDER = 'gogoanime';
 export const ZORO_PROVIDER = 'zoro';
 export const TYPE = {
