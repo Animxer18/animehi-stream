@@ -1,5 +1,5 @@
 import getJSON from './api';
-const BASE_URL = 'https://cors.proxy.consumet.org';
+const BASE_URL = 'https://animxer-api-cvxg.vercel.app/';
 
 const api = {
   popularAnime: (page: string | number): Promise<any> => {
